@@ -41,6 +41,14 @@ npm start
 npm test
 ```
 
+- Generate ApiDoc
+
+```bash
+npm run apidoc
+```
+
+Access under the route /apidoc on your browser.
+
 ---
 
 Manoela Cirilo - 2022
